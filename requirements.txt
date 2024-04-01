@@ -1,2 +1,4 @@
 requests==2.25.1
 pytz==2019.3
+beautifulsoup4
+requests
